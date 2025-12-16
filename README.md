@@ -49,7 +49,7 @@ graph LR
 
 ```bash
 pip install vanna[anthropic]  # or [openai]
-```
+```  
 
 ### Basic Example
 
